@@ -1,4 +1,4 @@
-# Basic Json Rest API
+# Basic Game Json Rest API
 A sample json api with nodejs and express for  backend development study.
 ..
 # Usage
