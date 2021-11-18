@@ -13,13 +13,19 @@ npm start
 the server is runnning on http://localhost:3000/games
 
 # Endpoints
+[Get all games]
+get /games 
 
-get /games [Get all games]
-get /game/id (integer) get game by id
+[Get game by id]
+get /game/id (integer) 
 
-post /games save game
-put /game/id (integer) update game by id
+[Save game]
+post /games 
 
-delete /game/id (integer) remove game
+[Update game by id]
+put /game/id (integer) 
+
+[Remove game]
+delete /game/id (integer) 
 
 # All data is returned in json format with the http status code equivalent to the response type. 
