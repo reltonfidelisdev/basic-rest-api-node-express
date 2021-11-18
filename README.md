@@ -10,7 +10,7 @@ Next, you can start the express
 ```shell
 npm start
 ```
-the server is runnning on http://localhost:3000
+the server is runnning on http://localhost:3000/games
 
 # Endpoints
 
