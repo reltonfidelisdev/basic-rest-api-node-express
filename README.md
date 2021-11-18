@@ -25,7 +25,9 @@ post /games
 ### [Update game by id]
 put /game/id (integer) 
 
+
 ### [Remove game]
 delete /game/id (integer) 
 
-# All data is returned in json format with the http status code equivalent to the response type. 
+### All data is returned in json format with the http status code equivalent to the response type. 
+If an error exist because the request, only a status code is returned
