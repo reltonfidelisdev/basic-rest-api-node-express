@@ -22,4 +22,4 @@ put /game/id (integer) update game by id
 
 delete /game/id (integer) remove game
 
-all datas is returned in json format with equivalent HTTP Status code
+# All data is returned in json format with the http status code equivalent to the response type. 
