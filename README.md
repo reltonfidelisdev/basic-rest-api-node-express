@@ -1,4 +1,4 @@
-# basic-rest-api-node-express
+# Basic Json Rest API
 A sample json api with nodejs and express for  backend development study.
 ..
 # Usage
